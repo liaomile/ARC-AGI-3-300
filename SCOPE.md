@@ -12,6 +12,7 @@
 - Flash-Next / Pennyroyal campaign notebooks, patches, and score ledgers
 - CAM / memento / engine-solver ports
 - Game-specific probe & run strategies
+- lingjing_solo_agent adapter and related contract tests
 - Kaggle credentials, API keys, `.env`, runtime logs, recordings
 - Full third-party winning submissions (link upstream instead)
 
